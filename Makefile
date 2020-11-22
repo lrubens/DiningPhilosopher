@@ -9,7 +9,7 @@ CFLAGS  = -ggdb3 -Wall -fopenmp
 NUM_PHILOSOPHERS = 10  # Change accordingly for number of philosophers desired
 
 # the build target executable:
-TARGET = Q3
+TARGET = main
 
 all: $(TARGET)
 
