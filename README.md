@@ -1,0 +1,2 @@
+- Run make to compile program
+- Run make run to run program 
